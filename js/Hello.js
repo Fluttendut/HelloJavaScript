@@ -1,7 +1,7 @@
 
 function sayHello() {
 
-    document.querySelector("h3").textContent = "Hej" + document.querySelector("input").value;
+    // document.querySelector("h3").textContent = "Hej " + document.querySelector("input").value;
     //Anvend querySelector til at få fat i h3-elementet og igen querySelector til at få fat i værdien fra input-elementet:
 }
 
